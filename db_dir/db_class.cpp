@@ -32,6 +32,7 @@ int main(int argc, char const *argv[])
 {
 
 	DB_class db_obj1;
+	db_obj1.prnt_dir();
 	return 0;
 }
 
