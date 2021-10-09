@@ -55,6 +55,6 @@ void DB_class :: prnt_dir(){
 	char dir[100];
 
 	getcwd(dir, 100);
-	printf("Working dir : %s\n", dir); 
+	printf(" Working dir : %s\n", dir); 
 }
 // ----------------------------------------------- DB_class methods
